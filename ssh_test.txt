@@ -1,0 +1,2 @@
+Pushing using ssh with:
+git@github.com:lingoport-public/Rebel-Outfitters.git
